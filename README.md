@@ -1,2 +1,2 @@
-# Projet_4_NLP_IA_g-n-rative
+# Projet_4_NLP_IA_générative
 NLP_IA_générative
