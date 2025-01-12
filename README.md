@@ -1,4 +1,3 @@
-# Projet_4_NLP_IA_générative
 # Projet NLP : Extraction et Recherche Sémantique à partir de PDF
 
 ## Description
